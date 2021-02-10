@@ -2,7 +2,7 @@
 <tv generator-info-name="GUIDEX.ML, https://guidex.ml/d">
   <channel id="digi296">
     <display-name lang="hu">TV Paprika</display-name>
-    <icon src="https://online.digi.hu/cache/api/programs/tv-paprika.png"/>
+    <icon src="https://raw.githubusercontent.com/fekeb2005/epg/main/IMG.jpg"/>
   </channel>
   <programme start="20210209200000 +0100" stop="20210209203000 +0100" channel="digi296">
     <title lang="hu">Jamie 30 perces kajái</title>
