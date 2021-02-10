@@ -1,0 +1,578 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv generator-info-name="GUIDEX.ML, https://guidex.ml/d">
+  <channel id="digi296">
+    <display-name lang="hu">TV Paprika</display-name>
+    <icon src="https://online.digi.hu/cache/api/programs/tv-paprika.png"/>
+  </channel>
+  <programme start="20210209200000 +0100" stop="20210209203000 +0100" channel="digi296">
+    <title lang="hu">Jamie 30 perces kajái</title>
+    <sub-title lang="hu">(angol főzőshow 33. rész, 2010)</sub-title>
+    <desc lang="hu">Ha szeret főzni és egy hosszú nap után éhes szájak várják otthon, akkor engedje be konyhájába Jamie-t, aki bemutatja hogyan tud mindössze harminc perc alatt vacsorát készíteni friss alapanyagokból.</desc>
+  </programme>
+  <programme start="20210209203000 +0100" stop="20210209210000 +0100" channel="digi296">
+    <title lang="hu">Jamie 30 perces kajái</title>
+    <sub-title lang="hu">(angol főzőshow 34. rész, 2010)</sub-title>
+    <desc lang="hu">Ha szeret főzni és egy hosszú nap után éhes szájak várják otthon, akkor engedje be konyhájába Jamie-t, aki bemutatja hogyan tud mindössze harminc perc alatt vacsorát készíteni friss alapanyagokból.</desc>
+  </programme>
+  <programme start="20210209210000 +0100" stop="20210209220000 +0100" channel="digi296">
+    <title lang="hu">Jamie és Jimmy konyhai csatái</title>
+    <sub-title lang="hu">(angol főzőshow, 2019)</sub-title>
+    <desc lang="hu">Jamie és Jimmy az essexi kávézójukban fogadja ezúttal a hírességeket, akik egy életre szóló kulináris élményben részesülnek. Olyan recepteket tárnak elénk, amelyeket életük mély és különleges pillanatai ihlettek.</desc>
+  </programme>
+  <programme start="20210209220000 +0100" stop="20210209223000 +0100" channel="digi296">
+    <title lang="hu">Kevin Dundon: Modern ír konyha</title>
+    <sub-title lang="hu">(ír ismeretterjesztő filmsorozat 7. rész, 2013)</sub-title>
+    <desc lang="hu">A sorozatban Kevin Dundon szakács olyan, Írországra jellemző hozzávalókat mutat be, mint például a marhahús, sajt, hal, tenger gyümölcsei, hogy ezeket aztán fenséges modern ír ételekké változtassa.</desc>
+  </programme>
+  <programme start="20210209223000 +0100" stop="20210209230000 +0100" channel="digi296">
+    <title lang="hu">Martin kedvenc halételei</title>
+    <sub-title lang="hu">(ismeretterjesztő filmsorozat 7. rész, 2010)</sub-title>
+    <desc lang="hu">A híres ír szakács, Martin Shanahan eltökélt szándéka, hogy eloszlassa a halak körül kialakult különféle félelmeket, és hogy bebizonyítsa, bárki képes otthon egyszerű és ízletes halételeket készíteni.</desc>
+  </programme>
+  <programme start="20210209230000 +0100" stop="20210210000000 +0100" channel="digi296">
+    <title lang="hu">Királyi receptek</title>
+    <sub-title lang="hu">(angol főzőshow 5. rész, 2017)</sub-title>
+    <desc lang="hu">Michael Buerk az egykori királyi palotába, Audley Endbe látogat, ahol a hozzá csatlakozó mesterszakácsokkal, Paul Ainsworthszel és Anna Haugh-val egykori és mai királyi ételeket készítenek.</desc>
+  </programme>
+  <programme start="20210210000000 +0100" stop="20210210003000 +0100" channel="digi296">
+    <title lang="hu">Jó szakács, rossz szakács</title>
+    <sub-title lang="hu">(auszt. ismeretterjesztő filmsorozat, 2018)</sub-title>
+    <desc lang="hu">Az agy és a gyomor harca! Együnk jó vagy együnk egészségeset? Az örök dilemma. Vagy mégsem? Lehetséges egyszerre a kettőt? Most kiderül.</desc>
+  </programme>
+  <programme start="20210210003000 +0100" stop="20210210010000 +0100" channel="digi296">
+    <title lang="hu">Terítéken Lengyelország</title>
+    <sub-title lang="hu">(lengyel főzőshow, 2014)</sub-title>
+    <desc lang="hu">A műsor szenvedélyes szakácsa jól ismert lengyel különlegességek felhasználásával készít vadonatúj ételeket korábban sosem tapasztalt ízvilággal.</desc>
+  </programme>
+  <programme start="20210210010000 +0100" stop="20210210013000 +0100" channel="digi296">
+    <title lang="hu">A világ késsel-villával</title>
+    <sub-title lang="hu">(magyar főzőshow 11. rész, 2017)</sub-title>
+    <desc lang="hu">A világ késsel-villával című sorozatunkban Kapusi Gerti és Bede Róbert további gasztronómiai utazásokra indul, minden részben egy-egy ország gasztronómiai különlegességét hozza el nekünk.</desc>
+  </programme>
+  <programme start="20210210013000 +0100" stop="20210210020000 +0100" channel="digi296">
+    <title lang="hu">Kedvenceink kedvencei</title>
+    <sub-title lang="hu">(magyar főzőshow 11. rész, 2019) - Déri Szilvia, Házisáfrány</sub-title>
+    <desc lang="hu">A TV Paprika új sorozatában jól ismert séfek, bloggerek mutatják meg kedvenc fogásaikat. A baráti összejövetelekre vagy éppen ünnepi asztalra alkalmas menüsorok mind-mind kedvenceink kedvencei.</desc>
+  </programme>
+  <programme start="20210210020000 +0100" stop="20210210022500 +0100" channel="digi296">
+    <title lang="hu">A boldogság receptjei</title>
+    <sub-title lang="hu">(magyar ismeretterjesztő filmsorozat 13. rész, 2014)</sub-title>
+    <desc lang="hu">Az otthon melegét árasztó hangulat, ízletes ételek, vidám beszélgetések, történetek a konyhából és a terített asztal mellől. A recept egyszerű: jól ismert vendégek érkeznek Bede Róberthez.</desc>
+  </programme>
+  <programme start="20210210022500 +0100" stop="20210210025000 +0100" channel="digi296">
+    <title lang="hu">A boldogság receptjei</title>
+    <sub-title lang="hu">(magyar ismeretterjesztő filmsorozat 14. rész, 2014)</sub-title>
+    <desc lang="hu">Az otthon melegét árasztó hangulat, ízletes ételek, vidám beszélgetések, történetek a konyhából és a terített asztal mellől. A recept egyszerű: jól ismert vendégek érkeznek Bede Róberthez.</desc>
+  </programme>
+  <programme start="20210210025000 +0100" stop="20210210031200 +0100" channel="digi296">
+    <title lang="hu">Süti 1x1</title>
+    <sub-title lang="hu">(kan. gasztro-reality, 2016) - Lisztmentes sütemény</sub-title>
+    <desc lang="hu">A csodacukrász Anna Olson ebben az új sorozatában kifejezetten a süteménykészítés fortélyait mutatja be számunkra. A hangsúlyt pedig ezúttal a süti-tészták különbözőségére helyezi.</desc>
+  </programme>
+  <programme start="20210210031200 +0100" stop="20210210033500 +0100" channel="digi296">
+    <title lang="hu">Süti 1x1</title>
+    <sub-title lang="hu">(kan. ismeretterjesztő műsor, 2018) - Karamella</sub-title>
+    <desc lang="hu">A csodacukrász Anna Olson a süteménysütés csodálatos világának fortélyait mutatja be a nézőknek, legyen szó muffinokról vagy habcsókról, krémes tortákról vagy croissant-ról.</desc>
+  </programme>
+  <programme start="20210210033500 +0100" stop="20210210040000 +0100" channel="digi296">
+    <title lang="hu">Kevin Dundon: Modern ír konyha</title>
+    <sub-title lang="hu">(ír ismeretterjesztő filmsorozat 7. rész, 2013)</sub-title>
+    <desc lang="hu">A sorozatban Kevin Dundon szakács olyan, Írországra jellemző hozzávalókat mutat be, mint például a marhahús, sajt, hal, tenger gyümölcsei, hogy ezeket aztán fenséges modern ír ételekké változtassa.</desc>
+  </programme>
+  <programme start="20210210040000 +0100" stop="20210210042500 +0100" channel="digi296">
+    <title lang="hu">Martin kedvenc halételei</title>
+    <sub-title lang="hu">(ismeretterjesztő filmsorozat 7. rész, 2010)</sub-title>
+    <desc lang="hu">A híres ír szakács, Martin Shanahan eltökélt szándéka, hogy eloszlassa a halak körül kialakult különféle félelmeket, és hogy bebizonyítsa, bárki képes otthon egyszerű és ízletes halételeket készíteni.</desc>
+  </programme>
+  <programme start="20210210042500 +0100" stop="20210210051000 +0100" channel="digi296">
+    <title lang="hu">Királyi receptek</title>
+    <sub-title lang="hu">(angol főzőshow 5. rész, 2017)</sub-title>
+    <desc lang="hu">Michael Buerk az egykori királyi palotába, Audley Endbe látogat, ahol a hozzá csatlakozó mesterszakácsokkal, Paul Ainsworthszel és Anna Haugh-val egykori és mai királyi ételeket készítenek.</desc>
+  </programme>
+  <programme start="20210210051000 +0100" stop="20210210060000 +0100" channel="digi296">
+    <title lang="hu">Jamie és Jimmy konyhai csatái</title>
+    <sub-title lang="hu">(angol főzőshow, 2019)</sub-title>
+    <desc lang="hu">Jamie és Jimmy az essexi kávézójukban fogadja ezúttal a hírességeket, akik egy életre szóló kulináris élményben részesülnek. Olyan recepteket tárnak elénk, amelyeket életük mély és különleges pillanatai ihlettek.</desc>
+  </programme>
+  <programme start="20210210060000 +0100" stop="20210210080000 +0100" channel="digi296">
+    <title lang="hu">Teleshop</title>
+    <sub-title lang="hu">(reklámfilm)</sub-title>
+    <desc lang="hu">Termékeket bemutató, és azokat vásárlásra felkínáló televíziós műsorblokk.</desc>
+  </programme>
+  <programme start="20210210080000 +0100" stop="20210210083000 +0100" channel="digi296">
+    <title lang="hu">Jamie 15 perces kajái</title>
+    <sub-title lang="hu">(angol főzőshow 39. rész, 2012)</sub-title>
+    <desc lang="hu">Jamie ismét fakanalat fog, ezúttal azonban még nagyobb kihívás elé állítja magát: 15 perc alatt kell elkészítenie egy főfogást nyers alapanyagokból a gőzölgő végeredményig.</desc>
+  </programme>
+  <programme start="20210210083000 +0100" stop="20210210090000 +0100" channel="digi296">
+    <title lang="hu">Jamie 15 perces kajái</title>
+    <sub-title lang="hu">(angol főzőshow 40. rész, 2012)</sub-title>
+    <desc lang="hu">Jamie ismét fakanalat fog, ezúttal azonban még nagyobb kihívás elé állítja magát: 15 perc alatt kell elkészítenie egy főfogást nyers alapanyagokból a gőzölgő végeredményig.</desc>
+  </programme>
+  <programme start="20210210090000 +0100" stop="20210210093000 +0100" channel="digi296">
+    <title lang="hu">Jamie 30 perces kajái</title>
+    <sub-title lang="hu">(angol főzőshow 31. rész, 2010)</sub-title>
+    <desc lang="hu">Ha szeret főzni és egy hosszú nap után éhes szájak várják otthon, akkor engedje be konyhájába Jamie-t, aki bemutatja hogyan tud mindössze harminc perc alatt vacsorát készíteni friss alapanyagokból.</desc>
+  </programme>
+  <programme start="20210210093000 +0100" stop="20210210100000 +0100" channel="digi296">
+    <title lang="hu">Jamie 30 perces kajái</title>
+    <sub-title lang="hu">(angol főzőshow 32. rész, 2010)</sub-title>
+    <desc lang="hu">Ha szeret főzni és egy hosszú nap után éhes szájak várják otthon, akkor engedje be konyhájába Jamie-t, aki bemutatja hogyan tud mindössze harminc perc alatt vacsorát készíteni friss alapanyagokból.</desc>
+  </programme>
+  <programme start="20210210100000 +0100" stop="20210210103000 +0100" channel="digi296">
+    <title lang="hu">Kevin Dundon: Modern ír konyha</title>
+    <sub-title lang="hu">(ír ismeretterjesztő filmsorozat 7. rész, 2013)</sub-title>
+    <desc lang="hu">A sorozatban Kevin Dundon szakács olyan, Írországra jellemző hozzávalókat mutat be, mint például a marhahús, sajt, hal, tenger gyümölcsei, hogy ezeket aztán fenséges modern ír ételekké változtassa.</desc>
+  </programme>
+  <programme start="20210210103000 +0100" stop="20210210110000 +0100" channel="digi296">
+    <title lang="hu">Martin kedvenc halételei</title>
+    <sub-title lang="hu">(ismeretterjesztő filmsorozat 7. rész, 2010)</sub-title>
+    <desc lang="hu">A híres ír szakács, Martin Shanahan eltökélt szándéka, hogy eloszlassa a halak körül kialakult különféle félelmeket, és hogy bebizonyítsa, bárki képes otthon egyszerű és ízletes halételeket készíteni.</desc>
+  </programme>
+  <programme start="20210210110000 +0100" stop="20210210120000 +0100" channel="digi296">
+    <title lang="hu">Királyi receptek</title>
+    <sub-title lang="hu">(angol főzőshow 6. rész, 2017)</sub-title>
+    <desc lang="hu">Michael Buerk az egykori királyi palotába, Audley Endbe látogat, ahol a hozzá csatlakozó mesterszakácsokkal, Paul Ainsworthszel és Anna Haugh-val egykori és mai királyi ételeket készítenek.</desc>
+  </programme>
+  <programme start="20210210120000 +0100" stop="20210210123000 +0100" channel="digi296">
+    <title lang="hu">Jó szakács, rossz szakács</title>
+    <sub-title lang="hu">(auszt. ismeretterjesztő filmsorozat, 2018)</sub-title>
+    <desc lang="hu">Az agy és a gyomor harca! Együnk jó vagy együnk egészségeset? Az örök dilemma. Vagy mégsem? Lehetséges egyszerre a kettőt? Most kiderül.</desc>
+  </programme>
+  <programme start="20210210123000 +0100" stop="20210210130000 +0100" channel="digi296">
+    <title lang="hu">Terítéken Lengyelország</title>
+    <sub-title lang="hu">(lengyel főzőshow, 2014)</sub-title>
+    <desc lang="hu">A műsor szenvedélyes szakácsa jól ismert lengyel különlegességek felhasználásával készít vadonatúj ételeket korábban sosem tapasztalt ízvilággal.</desc>
+  </programme>
+  <programme start="20210210130000 +0100" stop="20210210133000 +0100" channel="digi296">
+    <title lang="hu">A világ késsel-villával</title>
+    <sub-title lang="hu">(magyar főzőshow 11. rész, 2017)</sub-title>
+    <desc lang="hu">A világ késsel-villával című sorozatunkban Kapusi Gerti és Bede Róbert további gasztronómiai utazásokra indul, minden részben egy-egy ország gasztronómiai különlegességét hozza el nekünk.</desc>
+  </programme>
+  <programme start="20210210133000 +0100" stop="20210210140000 +0100" channel="digi296">
+    <title lang="hu">Kedvenceink kedvencei</title>
+    <sub-title lang="hu">(magyar főzőshow 11. rész, 2019) - Déri Szilvia, Házisáfrány</sub-title>
+    <desc lang="hu">A TV Paprika új sorozatában jól ismert séfek, bloggerek mutatják meg kedvenc fogásaikat. A baráti összejövetelekre vagy éppen ünnepi asztalra alkalmas menüsorok mind-mind kedvenceink kedvencei.</desc>
+  </programme>
+  <programme start="20210210140000 +0100" stop="20210210143000 +0100" channel="digi296">
+    <title lang="hu">Jamie egyszerű és gyors kajái</title>
+    <sub-title lang="hu">(angol főzőshow 3. rész, 2017)</sub-title>
+    <desc lang="hu">Jamie Oliver egyszerűbbé teszi az otthoni finomságok elkészítését, mint valaha, akár minden napra, még a legelfoglaltabbak számára is.</desc>
+  </programme>
+  <programme start="20210210143000 +0100" stop="20210210150000 +0100" channel="digi296">
+    <title lang="hu">Jamie egyszerű és gyors kajái</title>
+    <sub-title lang="hu">(angol főzőshow 4. rész, 2017)</sub-title>
+    <desc lang="hu">Jamie Oliver egyszerűbbé teszi az otthoni finomságok elkészítését, mint valaha, akár minden napra, még a legelfoglaltabbak számára is.</desc>
+  </programme>
+  <programme start="20210210150000 +0100" stop="20210210153000 +0100" channel="digi296">
+    <title lang="hu">Jamie 30 perces kajái</title>
+    <sub-title lang="hu">(angol főzőshow 33. rész, 2010)</sub-title>
+    <desc lang="hu">Ha szeret főzni és egy hosszú nap után éhes szájak várják otthon, akkor engedje be konyhájába Jamie-t, aki bemutatja hogyan tud mindössze harminc perc alatt vacsorát készíteni friss alapanyagokból.</desc>
+  </programme>
+  <programme start="20210210153000 +0100" stop="20210210160000 +0100" channel="digi296">
+    <title lang="hu">Jamie 30 perces kajái</title>
+    <sub-title lang="hu">(angol főzőshow 34. rész, 2010)</sub-title>
+    <desc lang="hu">Ha szeret főzni és egy hosszú nap után éhes szájak várják otthon, akkor engedje be konyhájába Jamie-t, aki bemutatja hogyan tud mindössze harminc perc alatt vacsorát készíteni friss alapanyagokból.</desc>
+  </programme>
+  <programme start="20210210160000 +0100" stop="20210210170000 +0100" channel="digi296">
+    <title lang="hu">Jamie és Jimmy konyhai csatái</title>
+    <sub-title lang="hu">(angol főzőshow, 2019)</sub-title>
+    <desc lang="hu">Jamie és Jimmy az essexi kávézójukban fogadja ezúttal a hírességeket, akik egy életre szóló kulináris élményben részesülnek. Olyan recepteket tárnak elénk, amelyeket életük mély és különleges pillanatai ihlettek.</desc>
+  </programme>
+  <programme start="20210210170000 +0100" stop="20210210173000 +0100" channel="digi296">
+    <title lang="hu">Jó szakács, rossz szakács</title>
+    <sub-title lang="hu">(auszt. ismeretterjesztő filmsorozat, 2018)</sub-title>
+    <desc lang="hu">Az agy és a gyomor harca! Együnk jó vagy együnk egészségeset? Az örök dilemma. Vagy mégsem? Lehetséges egyszerre a kettőt? Most kiderül.</desc>
+  </programme>
+  <programme start="20210210173000 +0100" stop="20210210180000 +0100" channel="digi296">
+    <title lang="hu">Terítéken Lengyelország</title>
+    <sub-title lang="hu">(lengyel főzőshow, 2014)</sub-title>
+    <desc lang="hu">A műsor szenvedélyes szakácsa jól ismert lengyel különlegességek felhasználásával készít vadonatúj ételeket korábban sosem tapasztalt ízvilággal.</desc>
+  </programme>
+  <programme start="20210210180000 +0100" stop="20210210183000 +0100" channel="digi296">
+    <title lang="hu">A világ késsel-villával</title>
+    <sub-title lang="hu">(magyar főzőshow 12. rész, 2017)</sub-title>
+    <desc lang="hu">A világ késsel-villával című sorozatunkban Kapusi Gerti és Bede Róbert további gasztronómiai utazásokra indul, minden részben egy-egy ország gasztronómiai különlegességét hozza el nekünk.</desc>
+  </programme>
+  <programme start="20210210183000 +0100" stop="20210210190000 +0100" channel="digi296">
+    <title lang="hu">Kedvenceink kedvencei</title>
+    <sub-title lang="hu">(magyar főzőshow 12. rész, 2019) - Déri Szilvia, Házisáfrány</sub-title>
+    <desc lang="hu">A TV Paprika új sorozatában jól ismert séfek, bloggerek mutatják meg kedvenc fogásaikat. A baráti összejövetelekre vagy éppen ünnepi asztalra alkalmas menüsorok mind-mind kedvenceink kedvencei.</desc>
+  </programme>
+  <programme start="20210210190000 +0100" stop="20210210193000 +0100" channel="digi296">
+    <title lang="hu">Jamie egyszerű és gyors kajái</title>
+    <sub-title lang="hu">(angol főzőshow 5. rész, 2017)</sub-title>
+    <desc lang="hu">Jamie Oliver egyszerűbbé teszi az otthoni finomságok elkészítését, mint valaha, akár minden napra, még a legelfoglaltabbak számára is.</desc>
+  </programme>
+  <programme start="20210210193000 +0100" stop="20210210200000 +0100" channel="digi296">
+    <title lang="hu">Jamie egyszerű és gyors kajái</title>
+    <sub-title lang="hu">(angol főzőshow 6. rész, 2017)</sub-title>
+    <desc lang="hu">Jamie Oliver egyszerűbbé teszi az otthoni finomságok elkészítését, mint valaha, akár minden napra, még a legelfoglaltabbak számára is.</desc>
+  </programme>
+  <programme start="20210210200000 +0100" stop="20210210203000 +0100" channel="digi296">
+    <title lang="hu">Jamie 30 perces kajái</title>
+    <sub-title lang="hu">(angol főzőshow 35. rész, 2010)</sub-title>
+    <desc lang="hu">Ha szeret főzni és egy hosszú nap után éhes szájak várják otthon, akkor engedje be konyhájába Jamie-t, aki bemutatja hogyan tud mindössze harminc perc alatt vacsorát készíteni friss alapanyagokból.</desc>
+  </programme>
+  <programme start="20210210203000 +0100" stop="20210210210000 +0100" channel="digi296">
+    <title lang="hu">Jamie 30 perces kajái</title>
+    <sub-title lang="hu">(angol ismeretterjesztő filmsorozat 36. rész, 2011)</sub-title>
+    <desc lang="hu">Ha szeret főzni és egy hosszú nap után éhes szájak várják otthon, akkor engedje be konyhájába Jamie-t, aki bemutatja hogyan tud mindössze harminc perc alatt vacsorát készíteni friss alapanyagokból.</desc>
+  </programme>
+  <programme start="20210210210000 +0100" stop="20210210220000 +0100" channel="digi296">
+    <title lang="hu">Jamie és Jimmy konyhai csatái</title>
+    <sub-title lang="hu">(angol főzőshow, 2019)</sub-title>
+    <desc lang="hu">Jamie és Jimmy az essexi kávézójukban fogadja ezúttal a hírességeket, akik egy életre szóló kulináris élményben részesülnek. Olyan recepteket tárnak elénk, amelyeket életük mély és különleges pillanatai ihlettek.</desc>
+  </programme>
+  <programme start="20210210220000 +0100" stop="20210210223000 +0100" channel="digi296">
+    <title lang="hu">Kevin Dundon: Modern ír konyha</title>
+    <sub-title lang="hu">(ír ismeretterjesztő filmsorozat 8. rész, 2013)</sub-title>
+    <desc lang="hu">A sorozatban Kevin Dundon szakács olyan, Írországra jellemző hozzávalókat mutat be, mint például a marhahús, sajt, hal, tenger gyümölcsei, hogy ezeket aztán fenséges modern ír ételekké változtassa.</desc>
+  </programme>
+  <programme start="20210210223000 +0100" stop="20210210230000 +0100" channel="digi296">
+    <title lang="hu">Martin kedvenc halételei</title>
+    <sub-title lang="hu">(ismeretterjesztő filmsorozat 8. rész, 2010)</sub-title>
+    <desc lang="hu">A híres ír szakács, Martin Shanahan eltökélt szándéka, hogy eloszlassa a halak körül kialakult különféle félelmeket, és hogy bebizonyítsa, bárki képes otthon egyszerű és ízletes halételeket készíteni.</desc>
+  </programme>
+  <programme start="20210210230000 +0100" stop="20210211000000 +0100" channel="digi296">
+    <title lang="hu">Királyi receptek</title>
+    <sub-title lang="hu">(angol főzőshow 6. rész, 2017)</sub-title>
+    <desc lang="hu">Michael Buerk az egykori királyi palotába, Audley Endbe látogat, ahol a hozzá csatlakozó mesterszakácsokkal, Paul Ainsworthszel és Anna Haugh-val egykori és mai királyi ételeket készítenek.</desc>
+  </programme>
+  <programme start="20210211000000 +0100" stop="20210211003000 +0100" channel="digi296">
+    <title lang="hu">Jó szakács, rossz szakács</title>
+    <sub-title lang="hu">(auszt. ismeretterjesztő filmsorozat, 2018)</sub-title>
+    <desc lang="hu">Az agy és a gyomor harca! Együnk jó vagy együnk egészségeset? Az örök dilemma. Vagy mégsem? Lehetséges egyszerre a kettőt? Most kiderül.</desc>
+  </programme>
+  <programme start="20210211003000 +0100" stop="20210211010000 +0100" channel="digi296">
+    <title lang="hu">Terítéken Lengyelország</title>
+    <sub-title lang="hu">(lengyel főzőshow, 2014)</sub-title>
+    <desc lang="hu">A műsor szenvedélyes szakácsa jól ismert lengyel különlegességek felhasználásával készít vadonatúj ételeket korábban sosem tapasztalt ízvilággal.</desc>
+  </programme>
+  <programme start="20210211010000 +0100" stop="20210211013000 +0100" channel="digi296">
+    <title lang="hu">A világ késsel-villával</title>
+    <sub-title lang="hu">(magyar főzőshow 12. rész, 2017)</sub-title>
+    <desc lang="hu">A világ késsel-villával című sorozatunkban Kapusi Gerti és Bede Róbert további gasztronómiai utazásokra indul, minden részben egy-egy ország gasztronómiai különlegességét hozza el nekünk.</desc>
+  </programme>
+  <programme start="20210211013000 +0100" stop="20210211020000 +0100" channel="digi296">
+    <title lang="hu">Kedvenceink kedvencei</title>
+    <sub-title lang="hu">(magyar főzőshow 12. rész, 2019) - Déri Szilvia, Házisáfrány</sub-title>
+    <desc lang="hu">A TV Paprika új sorozatában jól ismert séfek, bloggerek mutatják meg kedvenc fogásaikat. A baráti összejövetelekre vagy éppen ünnepi asztalra alkalmas menüsorok mind-mind kedvenceink kedvencei.</desc>
+  </programme>
+  <programme start="20210211020000 +0100" stop="20210211022500 +0100" channel="digi296">
+    <title lang="hu">A boldogság receptjei</title>
+    <sub-title lang="hu">(magyar ismeretterjesztő filmsorozat 15. rész, 2014)</sub-title>
+    <desc lang="hu">Az otthon melegét árasztó hangulat, ízletes ételek, vidám beszélgetések, történetek a konyhából és a terített asztal mellől. A recept egyszerű: jól ismert vendégek érkeznek Bede Róberthez.</desc>
+  </programme>
+  <programme start="20210211022500 +0100" stop="20210211025000 +0100" channel="digi296">
+    <title lang="hu">A boldogság receptjei</title>
+    <sub-title lang="hu">(magyar ismeretterjesztő filmsorozat 16. rész, 2014)</sub-title>
+    <desc lang="hu">Az otthon melegét árasztó hangulat, ízletes ételek, vidám beszélgetések, történetek a konyhából és a terített asztal mellől. A recept egyszerű: jól ismert vendégek érkeznek Bede Róberthez.</desc>
+  </programme>
+  <programme start="20210211025000 +0100" stop="20210211031200 +0100" channel="digi296">
+    <title lang="hu">Süti 1x1</title>
+    <sub-title lang="hu">(kan. gasztro-reality, 2016) - Keksz</sub-title>
+    <desc lang="hu">A csodacukrász Anna Olson ebben az új sorozatában kifejezetten a süteménykészítés fortélyait mutatja be számunkra. A hangsúlyt pedig ezúttal a süti-tészták különbözőségére helyezi.</desc>
+  </programme>
+  <programme start="20210211031200 +0100" stop="20210211033500 +0100" channel="digi296">
+    <title lang="hu">Süti 1x1</title>
+    <sub-title lang="hu">(kan. ismeretterjesztő műsor, 2018) - Pudingok</sub-title>
+    <desc lang="hu">A csodacukrász Anna Olson a süteménysütés csodálatos világának fortélyait mutatja be a nézőknek, legyen szó muffinokról vagy habcsókról, krémes tortákról vagy croissant-ról.</desc>
+  </programme>
+  <programme start="20210211033500 +0100" stop="20210211040000 +0100" channel="digi296">
+    <title lang="hu">Kevin Dundon: Modern ír konyha</title>
+    <sub-title lang="hu">(ír ismeretterjesztő filmsorozat 8. rész, 2013)</sub-title>
+    <desc lang="hu">A sorozatban Kevin Dundon szakács olyan, Írországra jellemző hozzávalókat mutat be, mint például a marhahús, sajt, hal, tenger gyümölcsei, hogy ezeket aztán fenséges modern ír ételekké változtassa.</desc>
+  </programme>
+  <programme start="20210211040000 +0100" stop="20210211042500 +0100" channel="digi296">
+    <title lang="hu">Martin kedvenc halételei</title>
+    <sub-title lang="hu">(ismeretterjesztő filmsorozat 8. rész, 2010)</sub-title>
+    <desc lang="hu">A híres ír szakács, Martin Shanahan eltökélt szándéka, hogy eloszlassa a halak körül kialakult különféle félelmeket, és hogy bebizonyítsa, bárki képes otthon egyszerű és ízletes halételeket készíteni.</desc>
+  </programme>
+  <programme start="20210210200000 +0100" stop="20210210203000 +0100" channel="digi296">
+    <title lang="hu">Jamie 30 perces kajái</title>
+    <sub-title lang="hu">(angol főzőshow 35. rész, 2010)</sub-title>
+    <desc lang="hu">Ha szeret főzni és egy hosszú nap után éhes szájak várják otthon, akkor engedje be konyhájába Jamie-t, aki bemutatja hogyan tud mindössze harminc perc alatt vacsorát készíteni friss alapanyagokból.</desc>
+  </programme>
+  <programme start="20210210203000 +0100" stop="20210210210000 +0100" channel="digi296">
+    <title lang="hu">Jamie 30 perces kajái</title>
+    <sub-title lang="hu">(angol ismeretterjesztő filmsorozat 36. rész, 2011)</sub-title>
+    <desc lang="hu">Ha szeret főzni és egy hosszú nap után éhes szájak várják otthon, akkor engedje be konyhájába Jamie-t, aki bemutatja hogyan tud mindössze harminc perc alatt vacsorát készíteni friss alapanyagokból.</desc>
+  </programme>
+  <programme start="20210210210000 +0100" stop="20210210220000 +0100" channel="digi296">
+    <title lang="hu">Jamie és Jimmy konyhai csatái</title>
+    <sub-title lang="hu">(angol főzőshow, 2019)</sub-title>
+    <desc lang="hu">Jamie és Jimmy az essexi kávézójukban fogadja ezúttal a hírességeket, akik egy életre szóló kulináris élményben részesülnek. Olyan recepteket tárnak elénk, amelyeket életük mély és különleges pillanatai ihlettek.</desc>
+  </programme>
+  <programme start="20210210220000 +0100" stop="20210210223000 +0100" channel="digi296">
+    <title lang="hu">Kevin Dundon: Modern ír konyha</title>
+    <sub-title lang="hu">(ír ismeretterjesztő filmsorozat 8. rész, 2013)</sub-title>
+    <desc lang="hu">A sorozatban Kevin Dundon szakács olyan, Írországra jellemző hozzávalókat mutat be, mint például a marhahús, sajt, hal, tenger gyümölcsei, hogy ezeket aztán fenséges modern ír ételekké változtassa.</desc>
+  </programme>
+  <programme start="20210210223000 +0100" stop="20210210230000 +0100" channel="digi296">
+    <title lang="hu">Martin kedvenc halételei</title>
+    <sub-title lang="hu">(ismeretterjesztő filmsorozat 8. rész, 2010)</sub-title>
+    <desc lang="hu">A híres ír szakács, Martin Shanahan eltökélt szándéka, hogy eloszlassa a halak körül kialakult különféle félelmeket, és hogy bebizonyítsa, bárki képes otthon egyszerű és ízletes halételeket készíteni.</desc>
+  </programme>
+  <programme start="20210210230000 +0100" stop="20210211000000 +0100" channel="digi296">
+    <title lang="hu">Királyi receptek</title>
+    <sub-title lang="hu">(angol főzőshow 6. rész, 2017)</sub-title>
+    <desc lang="hu">Michael Buerk az egykori királyi palotába, Audley Endbe látogat, ahol a hozzá csatlakozó mesterszakácsokkal, Paul Ainsworthszel és Anna Haugh-val egykori és mai királyi ételeket készítenek.</desc>
+  </programme>
+  <programme start="20210211000000 +0100" stop="20210211003000 +0100" channel="digi296">
+    <title lang="hu">Jó szakács, rossz szakács</title>
+    <sub-title lang="hu">(auszt. ismeretterjesztő filmsorozat, 2018)</sub-title>
+    <desc lang="hu">Az agy és a gyomor harca! Együnk jó vagy együnk egészségeset? Az örök dilemma. Vagy mégsem? Lehetséges egyszerre a kettőt? Most kiderül.</desc>
+  </programme>
+  <programme start="20210211003000 +0100" stop="20210211010000 +0100" channel="digi296">
+    <title lang="hu">Terítéken Lengyelország</title>
+    <sub-title lang="hu">(lengyel főzőshow, 2014)</sub-title>
+    <desc lang="hu">A műsor szenvedélyes szakácsa jól ismert lengyel különlegességek felhasználásával készít vadonatúj ételeket korábban sosem tapasztalt ízvilággal.</desc>
+  </programme>
+  <programme start="20210211010000 +0100" stop="20210211013000 +0100" channel="digi296">
+    <title lang="hu">A világ késsel-villával</title>
+    <sub-title lang="hu">(magyar főzőshow 12. rész, 2017)</sub-title>
+    <desc lang="hu">A világ késsel-villával című sorozatunkban Kapusi Gerti és Bede Róbert további gasztronómiai utazásokra indul, minden részben egy-egy ország gasztronómiai különlegességét hozza el nekünk.</desc>
+  </programme>
+  <programme start="20210211013000 +0100" stop="20210211020000 +0100" channel="digi296">
+    <title lang="hu">Kedvenceink kedvencei</title>
+    <sub-title lang="hu">(magyar főzőshow 12. rész, 2019) - Déri Szilvia, Házisáfrány</sub-title>
+    <desc lang="hu">A TV Paprika új sorozatában jól ismert séfek, bloggerek mutatják meg kedvenc fogásaikat. A baráti összejövetelekre vagy éppen ünnepi asztalra alkalmas menüsorok mind-mind kedvenceink kedvencei.</desc>
+  </programme>
+  <programme start="20210211020000 +0100" stop="20210211022500 +0100" channel="digi296">
+    <title lang="hu">A boldogság receptjei</title>
+    <sub-title lang="hu">(magyar ismeretterjesztő filmsorozat 15. rész, 2014)</sub-title>
+    <desc lang="hu">Az otthon melegét árasztó hangulat, ízletes ételek, vidám beszélgetések, történetek a konyhából és a terített asztal mellől. A recept egyszerű: jól ismert vendégek érkeznek Bede Róberthez.</desc>
+  </programme>
+  <programme start="20210211022500 +0100" stop="20210211025000 +0100" channel="digi296">
+    <title lang="hu">A boldogság receptjei</title>
+    <sub-title lang="hu">(magyar ismeretterjesztő filmsorozat 16. rész, 2014)</sub-title>
+    <desc lang="hu">Az otthon melegét árasztó hangulat, ízletes ételek, vidám beszélgetések, történetek a konyhából és a terített asztal mellől. A recept egyszerű: jól ismert vendégek érkeznek Bede Róberthez.</desc>
+  </programme>
+  <programme start="20210211025000 +0100" stop="20210211031200 +0100" channel="digi296">
+    <title lang="hu">Süti 1x1</title>
+    <sub-title lang="hu">(kan. gasztro-reality, 2016) - Keksz</sub-title>
+    <desc lang="hu">A csodacukrász Anna Olson ebben az új sorozatában kifejezetten a süteménykészítés fortélyait mutatja be számunkra. A hangsúlyt pedig ezúttal a süti-tészták különbözőségére helyezi.</desc>
+  </programme>
+  <programme start="20210211031200 +0100" stop="20210211033500 +0100" channel="digi296">
+    <title lang="hu">Süti 1x1</title>
+    <sub-title lang="hu">(kan. ismeretterjesztő műsor, 2018) - Pudingok</sub-title>
+    <desc lang="hu">A csodacukrász Anna Olson a süteménysütés csodálatos világának fortélyait mutatja be a nézőknek, legyen szó muffinokról vagy habcsókról, krémes tortákról vagy croissant-ról.</desc>
+  </programme>
+  <programme start="20210211033500 +0100" stop="20210211040000 +0100" channel="digi296">
+    <title lang="hu">Kevin Dundon: Modern ír konyha</title>
+    <sub-title lang="hu">(ír ismeretterjesztő filmsorozat 8. rész, 2013)</sub-title>
+    <desc lang="hu">A sorozatban Kevin Dundon szakács olyan, Írországra jellemző hozzávalókat mutat be, mint például a marhahús, sajt, hal, tenger gyümölcsei, hogy ezeket aztán fenséges modern ír ételekké változtassa.</desc>
+  </programme>
+  <programme start="20210211040000 +0100" stop="20210211042500 +0100" channel="digi296">
+    <title lang="hu">Martin kedvenc halételei</title>
+    <sub-title lang="hu">(ismeretterjesztő filmsorozat 8. rész, 2010)</sub-title>
+    <desc lang="hu">A híres ír szakács, Martin Shanahan eltökélt szándéka, hogy eloszlassa a halak körül kialakult különféle félelmeket, és hogy bebizonyítsa, bárki képes otthon egyszerű és ízletes halételeket készíteni.</desc>
+  </programme>
+  <programme start="20210211042500 +0100" stop="20210211051000 +0100" channel="digi296">
+    <title lang="hu">Királyi receptek</title>
+    <sub-title lang="hu">(angol főzőshow 6. rész, 2017)</sub-title>
+    <desc lang="hu">Michael Buerk az egykori királyi palotába, Audley Endbe látogat, ahol a hozzá csatlakozó mesterszakácsokkal, Paul Ainsworthszel és Anna Haugh-val egykori és mai királyi ételeket készítenek.</desc>
+  </programme>
+  <programme start="20210211051000 +0100" stop="20210211060000 +0100" channel="digi296">
+    <title lang="hu">Jamie és Jimmy konyhai csatái</title>
+    <sub-title lang="hu">(angol főzőshow, 2019)</sub-title>
+    <desc lang="hu">Jamie és Jimmy az essexi kávézójukban fogadja ezúttal a hírességeket, akik egy életre szóló kulináris élményben részesülnek. Olyan recepteket tárnak elénk, amelyeket életük mély és különleges pillanatai ihlettek.</desc>
+  </programme>
+  <programme start="20210211060000 +0100" stop="20210211080000 +0100" channel="digi296">
+    <title lang="hu">Teleshop</title>
+    <sub-title lang="hu">(reklámfilm)</sub-title>
+    <desc lang="hu">Termékeket bemutató, és azokat vásárlásra felkínáló televíziós műsorblokk.</desc>
+  </programme>
+  <programme start="20210211080000 +0100" stop="20210211083000 +0100" channel="digi296">
+    <title lang="hu">Jamie egyszerű és gyors kajái</title>
+    <sub-title lang="hu">(angol főzőshow 1. rész, 2017)</sub-title>
+    <desc lang="hu">Jamie Oliver egyszerűbbé teszi az otthoni finomságok elkészítését, mint valaha, akár minden napra, még a legelfoglaltabbak számára is.</desc>
+  </programme>
+  <programme start="20210211083000 +0100" stop="20210211090000 +0100" channel="digi296">
+    <title lang="hu">Jamie egyszerű és gyors kajái</title>
+    <sub-title lang="hu">(angol főzőshow 2. rész, 2017)</sub-title>
+    <desc lang="hu">Jamie Oliver egyszerűbbé teszi az otthoni finomságok elkészítését, mint valaha, akár minden napra, még a legelfoglaltabbak számára is.</desc>
+  </programme>
+  <programme start="20210211090000 +0100" stop="20210211093000 +0100" channel="digi296">
+    <title lang="hu">Jamie 30 perces kajái</title>
+    <sub-title lang="hu">(angol főzőshow 33. rész, 2010)</sub-title>
+    <desc lang="hu">Ha szeret főzni és egy hosszú nap után éhes szájak várják otthon, akkor engedje be konyhájába Jamie-t, aki bemutatja hogyan tud mindössze harminc perc alatt vacsorát készíteni friss alapanyagokból.</desc>
+  </programme>
+  <programme start="20210211093000 +0100" stop="20210211100000 +0100" channel="digi296">
+    <title lang="hu">Jamie 30 perces kajái</title>
+    <sub-title lang="hu">(angol főzőshow 34. rész, 2010)</sub-title>
+    <desc lang="hu">Ha szeret főzni és egy hosszú nap után éhes szájak várják otthon, akkor engedje be konyhájába Jamie-t, aki bemutatja hogyan tud mindössze harminc perc alatt vacsorát készíteni friss alapanyagokból.</desc>
+  </programme>
+  <programme start="20210211100000 +0100" stop="20210211103000 +0100" channel="digi296">
+    <title lang="hu">Kevin Dundon: Modern ír konyha</title>
+    <sub-title lang="hu">(ír ismeretterjesztő filmsorozat 8. rész, 2013)</sub-title>
+    <desc lang="hu">A sorozatban Kevin Dundon szakács olyan, Írországra jellemző hozzávalókat mutat be, mint például a marhahús, sajt, hal, tenger gyümölcsei, hogy ezeket aztán fenséges modern ír ételekké változtassa.</desc>
+  </programme>
+  <programme start="20210211103000 +0100" stop="20210211110000 +0100" channel="digi296">
+    <title lang="hu">Martin kedvenc halételei</title>
+    <sub-title lang="hu">(ismeretterjesztő filmsorozat 8. rész, 2010)</sub-title>
+    <desc lang="hu">A híres ír szakács, Martin Shanahan eltökélt szándéka, hogy eloszlassa a halak körül kialakult különféle félelmeket, és hogy bebizonyítsa, bárki képes otthon egyszerű és ízletes halételeket készíteni.</desc>
+  </programme>
+  <programme start="20210211110000 +0100" stop="20210211120000 +0100" channel="digi296">
+    <title lang="hu">Királyi receptek</title>
+    <sub-title lang="hu">(angol főzőshow 7. rész, 2017)</sub-title>
+    <desc lang="hu">Michael Buerk az egykori királyi palotába, Audley Endbe látogat, ahol a hozzá csatlakozó mesterszakácsokkal, Paul Ainsworthszel és Anna Haugh-val egykori és mai királyi ételeket készítenek.</desc>
+  </programme>
+  <programme start="20210211120000 +0100" stop="20210211123000 +0100" channel="digi296">
+    <title lang="hu">Jó szakács, rossz szakács</title>
+    <sub-title lang="hu">(auszt. ismeretterjesztő filmsorozat, 2018)</sub-title>
+    <desc lang="hu">Az agy és a gyomor harca! Együnk jó vagy együnk egészségeset? Az örök dilemma. Vagy mégsem? Lehetséges egyszerre a kettőt? Most kiderül.</desc>
+  </programme>
+  <programme start="20210211123000 +0100" stop="20210211130000 +0100" channel="digi296">
+    <title lang="hu">Terítéken Lengyelország</title>
+    <sub-title lang="hu">(lengyel főzőshow, 2014)</sub-title>
+    <desc lang="hu">A műsor szenvedélyes szakácsa jól ismert lengyel különlegességek felhasználásával készít vadonatúj ételeket korábban sosem tapasztalt ízvilággal.</desc>
+  </programme>
+  <programme start="20210211130000 +0100" stop="20210211133000 +0100" channel="digi296">
+    <title lang="hu">A világ késsel-villával</title>
+    <sub-title lang="hu">(magyar főzőshow 12. rész, 2017)</sub-title>
+    <desc lang="hu">A világ késsel-villával című sorozatunkban Kapusi Gerti és Bede Róbert további gasztronómiai utazásokra indul, minden részben egy-egy ország gasztronómiai különlegességét hozza el nekünk.</desc>
+  </programme>
+  <programme start="20210211133000 +0100" stop="20210211140000 +0100" channel="digi296">
+    <title lang="hu">Kedvenceink kedvencei</title>
+    <sub-title lang="hu">(magyar főzőshow 12. rész, 2019) - Déri Szilvia, Házisáfrány</sub-title>
+    <desc lang="hu">A TV Paprika új sorozatában jól ismert séfek, bloggerek mutatják meg kedvenc fogásaikat. A baráti összejövetelekre vagy éppen ünnepi asztalra alkalmas menüsorok mind-mind kedvenceink kedvencei.</desc>
+  </programme>
+  <programme start="20210211140000 +0100" stop="20210211143000 +0100" channel="digi296">
+    <title lang="hu">Jamie egyszerű és gyors kajái</title>
+    <sub-title lang="hu">(angol főzőshow 5. rész, 2017)</sub-title>
+    <desc lang="hu">Jamie Oliver egyszerűbbé teszi az otthoni finomságok elkészítését, mint valaha, akár minden napra, még a legelfoglaltabbak számára is.</desc>
+  </programme>
+  <programme start="20210211143000 +0100" stop="20210211150000 +0100" channel="digi296">
+    <title lang="hu">Jamie egyszerű és gyors kajái</title>
+    <sub-title lang="hu">(angol főzőshow 6. rész, 2017)</sub-title>
+    <desc lang="hu">Jamie Oliver egyszerűbbé teszi az otthoni finomságok elkészítését, mint valaha, akár minden napra, még a legelfoglaltabbak számára is.</desc>
+  </programme>
+  <programme start="20210211150000 +0100" stop="20210211153000 +0100" channel="digi296">
+    <title lang="hu">Jamie 30 perces kajái</title>
+    <sub-title lang="hu">(angol főzőshow 35. rész, 2010)</sub-title>
+    <desc lang="hu">Ha szeret főzni és egy hosszú nap után éhes szájak várják otthon, akkor engedje be konyhájába Jamie-t, aki bemutatja hogyan tud mindössze harminc perc alatt vacsorát készíteni friss alapanyagokból.</desc>
+  </programme>
+  <programme start="20210211153000 +0100" stop="20210211160000 +0100" channel="digi296">
+    <title lang="hu">Jamie 30 perces kajái</title>
+    <sub-title lang="hu">(angol ismeretterjesztő filmsorozat 36. rész, 2011)</sub-title>
+    <desc lang="hu">Ha szeret főzni és egy hosszú nap után éhes szájak várják otthon, akkor engedje be konyhájába Jamie-t, aki bemutatja hogyan tud mindössze harminc perc alatt vacsorát készíteni friss alapanyagokból.</desc>
+  </programme>
+  <programme start="20210211160000 +0100" stop="20210211170000 +0100" channel="digi296">
+    <title lang="hu">Jamie és Jimmy konyhai csatái</title>
+    <sub-title lang="hu">(angol főzőshow, 2019)</sub-title>
+    <desc lang="hu">Jamie és Jimmy az essexi kávézójukban fogadja ezúttal a hírességeket, akik egy életre szóló kulináris élményben részesülnek. Olyan recepteket tárnak elénk, amelyeket életük mély és különleges pillanatai ihlettek.</desc>
+  </programme>
+  <programme start="20210211170000 +0100" stop="20210211173000 +0100" channel="digi296">
+    <title lang="hu">Jó szakács, rossz szakács</title>
+    <sub-title lang="hu">(auszt. ismeretterjesztő filmsorozat, 2018)</sub-title>
+    <desc lang="hu">Az agy és a gyomor harca! Együnk jó vagy együnk egészségeset? Az örök dilemma. Vagy mégsem? Lehetséges egyszerre a kettőt? Most kiderül.</desc>
+  </programme>
+  <programme start="20210211173000 +0100" stop="20210211180000 +0100" channel="digi296">
+    <title lang="hu">Terítéken Lengyelország</title>
+    <sub-title lang="hu">(lengyel főzőshow, 2014)</sub-title>
+    <desc lang="hu">A műsor szenvedélyes szakácsa jól ismert lengyel különlegességek felhasználásával készít vadonatúj ételeket korábban sosem tapasztalt ízvilággal.</desc>
+  </programme>
+  <programme start="20210211180000 +0100" stop="20210211183000 +0100" channel="digi296">
+    <title lang="hu">A világ késsel-villával</title>
+    <sub-title lang="hu">(magyar főzőshow 13. rész, 2017)</sub-title>
+    <desc lang="hu">A világ késsel-villával című sorozatunkban Kapusi Gerti és Bede Róbert további gasztronómiai utazásokra indul, minden részben egy-egy ország gasztronómiai különlegességét hozza el nekünk.</desc>
+  </programme>
+  <programme start="20210211183000 +0100" stop="20210211190000 +0100" channel="digi296">
+    <title lang="hu">Kedvenceink kedvencei</title>
+    <sub-title lang="hu">(magyar főzőshow 3. rész, 2019) - Bodrogi Fűszeres Eszter</sub-title>
+    <desc lang="hu">A TV Paprika új sorozatában jól ismert séfek, bloggerek mutatják meg kedvenc fogásaikat. A baráti összejövetelekre vagy éppen ünnepi asztalra alkalmas menüsorok mind-mind kedvenceink kedvencei.</desc>
+  </programme>
+  <programme start="20210211190000 +0100" stop="20210211193000 +0100" channel="digi296">
+    <title lang="hu">Jamie egyszerű és gyors kajái</title>
+    <sub-title lang="hu">(angol főzőshow 7. rész, 2017)</sub-title>
+    <desc lang="hu">Jamie Oliver egyszerűbbé teszi az otthoni finomságok elkészítését, mint valaha, akár minden napra, még a legelfoglaltabbak számára is.</desc>
+  </programme>
+  <programme start="20210211193000 +0100" stop="20210211200000 +0100" channel="digi296">
+    <title lang="hu">Jamie egyszerű és gyors kajái</title>
+    <sub-title lang="hu">(angol főzőshow 8. rész, 2017)</sub-title>
+    <desc lang="hu">Jamie Oliver egyszerűbbé teszi az otthoni finomságok elkészítését, mint valaha, akár minden napra, még a legelfoglaltabbak számára is.</desc>
+  </programme>
+  <programme start="20210211200000 +0100" stop="20210211203000 +0100" channel="digi296">
+    <title lang="hu">Jamie 30 perces kajái</title>
+    <sub-title lang="hu">(angol főzőshow 37. rész, 2010)</sub-title>
+    <desc lang="hu">Ha szeret főzni és egy hosszú nap után éhes szájak várják otthon, akkor engedje be konyhájába Jamie-t, aki bemutatja hogyan tud mindössze harminc perc alatt vacsorát készíteni friss alapanyagokból.</desc>
+  </programme>
+  <programme start="20210211203000 +0100" stop="20210211210000 +0100" channel="digi296">
+    <title lang="hu">Jamie 30 perces kajái</title>
+    <sub-title lang="hu">(angol főzőshow 38. rész, 2010)</sub-title>
+    <desc lang="hu">Ha szeret főzni és egy hosszú nap után éhes szájak várják otthon, akkor engedje be konyhájába Jamie-t, aki bemutatja hogyan tud mindössze harminc perc alatt vacsorát készíteni friss alapanyagokból.</desc>
+  </programme>
+  <programme start="20210211210000 +0100" stop="20210211220000 +0100" channel="digi296">
+    <title lang="hu">Jamie és Jimmy konyhai csatái</title>
+    <sub-title lang="hu">(angol főzőshow, 2019)</sub-title>
+    <desc lang="hu">Jamie és Jimmy az essexi kávézójukban fogadja ezúttal a hírességeket, akik egy életre szóló kulináris élményben részesülnek. Olyan recepteket tárnak elénk, amelyeket életük mély és különleges pillanatai ihlettek.</desc>
+  </programme>
+  <programme start="20210211220000 +0100" stop="20210211223000 +0100" channel="digi296">
+    <title lang="hu">Kevin Dundon: Modern ír konyha</title>
+    <sub-title lang="hu">(ír ismeretterjesztő filmsorozat 9. rész, 2013)</sub-title>
+    <desc lang="hu">A sorozatban Kevin Dundon szakács olyan, Írországra jellemző hozzávalókat mutat be, mint például a marhahús, sajt, hal, tenger gyümölcsei, hogy ezeket aztán fenséges modern ír ételekké változtassa.</desc>
+  </programme>
+  <programme start="20210211223000 +0100" stop="20210211230000 +0100" channel="digi296">
+    <title lang="hu">Martin kedvenc halételei</title>
+    <sub-title lang="hu">(ismeretterjesztő filmsorozat 9. rész, 2010)</sub-title>
+    <desc lang="hu">A híres ír szakács, Martin Shanahan eltökélt szándéka, hogy eloszlassa a halak körül kialakult különféle félelmeket, és hogy bebizonyítsa, bárki képes otthon egyszerű és ízletes halételeket készíteni.</desc>
+  </programme>
+  <programme start="20210211230000 +0100" stop="20210212000000 +0100" channel="digi296">
+    <title lang="hu">Királyi receptek</title>
+    <sub-title lang="hu">(angol főzőshow 7. rész, 2017)</sub-title>
+    <desc lang="hu">Michael Buerk az egykori királyi palotába, Audley Endbe látogat, ahol a hozzá csatlakozó mesterszakácsokkal, Paul Ainsworthszel és Anna Haugh-val egykori és mai királyi ételeket készítenek.</desc>
+  </programme>
+  <programme start="20210212000000 +0100" stop="20210212003000 +0100" channel="digi296">
+    <title lang="hu">Jó szakács, rossz szakács</title>
+    <sub-title lang="hu">(auszt. ismeretterjesztő filmsorozat, 2018)</sub-title>
+    <desc lang="hu">Az agy és a gyomor harca! Együnk jó vagy együnk egészségeset? Az örök dilemma. Vagy mégsem? Lehetséges egyszerre a kettőt? Most kiderül.</desc>
+  </programme>
+  <programme start="20210212003000 +0100" stop="20210212010000 +0100" channel="digi296">
+    <title lang="hu">Terítéken Lengyelország</title>
+    <sub-title lang="hu">(lengyel főzőshow, 2014)</sub-title>
+    <desc lang="hu">A műsor szenvedélyes szakácsa jól ismert lengyel különlegességek felhasználásával készít vadonatúj ételeket korábban sosem tapasztalt ízvilággal.</desc>
+  </programme>
+  <programme start="20210212010000 +0100" stop="20210212013000 +0100" channel="digi296">
+    <title lang="hu">A világ késsel-villával</title>
+    <sub-title lang="hu">(magyar főzőshow 13. rész, 2017)</sub-title>
+    <desc lang="hu">A világ késsel-villával című sorozatunkban Kapusi Gerti és Bede Róbert további gasztronómiai utazásokra indul, minden részben egy-egy ország gasztronómiai különlegességét hozza el nekünk.</desc>
+  </programme>
+  <programme start="20210212013000 +0100" stop="20210212020000 +0100" channel="digi296">
+    <title lang="hu">Kedvenceink kedvencei</title>
+    <sub-title lang="hu">(magyar főzőshow 3. rész, 2019) - Bodrogi Fűszeres Eszter</sub-title>
+    <desc lang="hu">A TV Paprika új sorozatában jól ismert séfek, bloggerek mutatják meg kedvenc fogásaikat. A baráti összejövetelekre vagy éppen ünnepi asztalra alkalmas menüsorok mind-mind kedvenceink kedvencei.</desc>
+  </programme>
+  <programme start="20210212020000 +0100" stop="20210212022500 +0100" channel="digi296">
+    <title lang="hu">A boldogság receptjei</title>
+    <sub-title lang="hu">(magyar ismeretterjesztő filmsorozat 17. rész, 2014)</sub-title>
+    <desc lang="hu">Az otthon melegét árasztó hangulat, ízletes ételek, vidám beszélgetések, történetek a konyhából és a terített asztal mellől. A recept egyszerű: jól ismert vendégek érkeznek Bede Róberthez.</desc>
+  </programme>
+  <programme start="20210212022500 +0100" stop="20210212025000 +0100" channel="digi296">
+    <title lang="hu">A boldogság receptjei</title>
+    <sub-title lang="hu">(magyar ismeretterjesztő filmsorozat 18. rész, 2014)</sub-title>
+    <desc lang="hu">Az otthon melegét árasztó hangulat, ízletes ételek, vidám beszélgetések, történetek a konyhából és a terített asztal mellől. A recept egyszerű: jól ismert vendégek érkeznek Bede Róberthez.</desc>
+  </programme>
+  <programme start="20210212025000 +0100" stop="20210212031200 +0100" channel="digi296">
+    <title lang="hu">Süti 1x1</title>
+    <sub-title lang="hu">(kan. gasztro-reality, 2016) - Angolkrém</sub-title>
+    <desc lang="hu">A csodacukrász Anna Olson ebben az új sorozatában kifejezetten a süteménykészítés fortélyait mutatja be számunkra. A hangsúlyt pedig ezúttal a süti-tészták különbözőségére helyezi.</desc>
+  </programme>
+  <programme start="20210212031200 +0100" stop="20210212033500 +0100" channel="digi296">
+    <title lang="hu">Süti 1x1</title>
+    <sub-title lang="hu">(kan. ismeretterjesztő műsor, 2018) - Sajtos kenyér</sub-title>
+    <desc lang="hu">A csodacukrász Anna Olson a süteménysütés csodálatos világának fortélyait mutatja be a nézőknek, legyen szó muffinokról vagy habcsókról, krémes tortákról vagy croissant-ról.</desc>
+  </programme>
+  <programme start="20210212033500 +0100" stop="20210212040000 +0100" channel="digi296">
+    <title lang="hu">Kevin Dundon: Modern ír konyha</title>
+    <sub-title lang="hu">(ír ismeretterjesztő filmsorozat 9. rész, 2013)</sub-title>
+    <desc lang="hu">A sorozatban Kevin Dundon szakács olyan, Írországra jellemző hozzávalókat mutat be, mint például a marhahús, sajt, hal, tenger gyümölcsei, hogy ezeket aztán fenséges modern ír ételekké változtassa.</desc>
+  </programme>
+  <programme start="20210212040000 +0100" stop="20210212042500 +0100" channel="digi296">
+    <title lang="hu">Martin kedvenc halételei</title>
+    <sub-title lang="hu">(ismeretterjesztő filmsorozat 9. rész, 2010)</sub-title>
+    <desc lang="hu">A híres ír szakács, Martin Shanahan eltökélt szándéka, hogy eloszlassa a halak körül kialakult különféle félelmeket, és hogy bebizonyítsa, bárki képes otthon egyszerű és ízletes halételeket készíteni.</desc>
+  </programme>
+  
+</tv>
